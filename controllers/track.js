@@ -40,7 +40,7 @@ exports.find = function (req, res, next) {
     skip: 0,
     limit: parseInt(limit)
       ? parseInt(limit)
-      : 8
+      : 5
     })
     .exec(function (err, tracks) {
       if (err) {
