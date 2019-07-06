@@ -1,4 +1,4 @@
-# Traking app API
+# Tracking app API
 
 ## Techs and libraries
 - Node.js
